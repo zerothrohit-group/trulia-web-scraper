@@ -1,0 +1,6 @@
+,Name,City,Neighbourhood,Price,Year Built,Beds,Baths,Area,Price(per sqft),A/C
+0,1752 E 38th St,"Brooklyn, NY 11234",Marine Park,"$829,000",Year Built: 1930,3 Beds,2 Baths,"1,036 sqft",$800,Heating & Cooling
+1,556 Jefferson Blvd,"Staten Island, NY 10312",Annadale,"$949,900",Year Built: 1977,3 Beds,2 Baths,"2,465 sqft",$385,Heating & Cooling
+2,7913 5th Ave,"Brooklyn, NY 11209",Bay Ridge,"$1,549,000",Year Built: 1920,Studio,"3,135 sqft",Null,$494,Heating only
+3,269-10 Grand Central Pkwy #5D,"Floral Park, NY 11005",Glen Oaks,"$649,000",Year Built: 1972,1 Bed,2 Baths,"1,213 sqft",$535,Cooling only
+4,1025 42nd St #5,"Brooklyn, NY 11219",Borough Park,"$975,000",Year Built: 2005,4 Beds,2 Baths,"1,700 sqft",$574,Cooling only
